@@ -1,0 +1,1 @@
+# Modul pro měření atmosférického tlaku a teploty a vlhkosti s BMP280 a SHT40

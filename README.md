@@ -1,0 +1,1 @@
+# Module for atmospheric pressure and temperature and humidity measurement with BMP280 and SHT40
